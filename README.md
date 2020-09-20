@@ -9,4 +9,4 @@ Made For QBUS Framework Only
 ### Media
 !(https://www.youtube.com/watch?v=MKwQyApMuL8)
 
-Any issues me contact on Discord: SBRUlEZ#6969
+Any issues me contact on Discord: SBRULEZ#6969
