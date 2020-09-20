@@ -7,6 +7,6 @@ Made For QBUS Framework Only
 * Get random items based on chance.
 
 ### Media
-![video](https://www.youtube.com/watch?v=MKwQyApMuL8)
+!(https://www.youtube.com/watch?v=MKwQyApMuL8)
 
 Any issues me contact on Discord: SBRUlEZ#6969
