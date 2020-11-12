@@ -10,3 +10,4 @@ Made For QBUS Framework Only
 !(https://www.youtube.com/watch?v=MKwQyApMuL8)
 
  Contact Me On Discord For Any Queries: SBRULEZ#6969
+discord.gg/qQbuyAXbJk
